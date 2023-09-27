@@ -1,7 +1,7 @@
 # Documentation example
 
 This is an example of the stub that will be generated:
-https://ziacreatesideas.github.io/SPHINX_GETTING_STARTED_TEMPLATE/
+https://ziacreatesideas.github.io/JustATest/
 
 After you clone this repo, you will need to follow the install directions here:
 https://ziacreatesideas.github.io/STUDY_SPHINX-MYST
@@ -9,4 +9,5 @@ https://ziacreatesideas.github.io/STUDY_SPHINX-MYST
 
 We use this example in one [CodeRefinery](https://coderefinery.org/) lesson:
 - https://coderefinery.github.io/documentation/
+
 # JustATest
