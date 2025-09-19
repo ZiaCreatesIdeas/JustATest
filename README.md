@@ -1,5 +1,5 @@
 # Documentation example
 
-This is an example of the stub that will be generated:
+This page can be found at:
 https://ziacreatesideas.github.io/JustATest/
 
