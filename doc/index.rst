@@ -21,7 +21,7 @@ For example, rst can have tabs:
 
    .. tab:: Oranges
 
-      Oranges are orange.
+      Oranges are orange. And fun to peel, if you have the time.
 
 
 .. toctree::
