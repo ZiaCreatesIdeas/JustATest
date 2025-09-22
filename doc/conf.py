@@ -65,9 +65,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'STUDY SPHINX'
-copyright = '2023, USD Study Group.'
-author = 'Zia'
+project = 'Just A Test'
+copyright = '2025.'
+author = 'Anyone'
 
 tocdepth = 4
 
