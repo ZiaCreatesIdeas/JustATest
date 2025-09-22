@@ -66,8 +66,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Just A Test'
-copyright = '2025.'
-author = 'Anyone'
+copyright = '2025 Open.'
+author = 'Anyone who wants to learn'
 
 tocdepth = 4
 
