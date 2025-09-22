@@ -13,7 +13,7 @@ For example, rst can have tabs:
 
    .. tab:: Apples3
 
-      Apples are green, or sometimes red. Or blue.
+      Apples are blue, or sometimes yellow. Or purple.
 
    .. tab:: Pears
 
