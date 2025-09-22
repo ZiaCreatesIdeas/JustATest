@@ -17,7 +17,7 @@ For example, rst can have tabs:
 
    .. tab:: Pears
 
-      Pears are green.
+      Pears are green. Until they Ripen to a Splat.
 
    .. tab:: Oranges
 
